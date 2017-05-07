@@ -1,5 +1,5 @@
 # vallado3
-Python 3 code for "Fundamentals of Astrodynamics and Applications" by David Vallado
+Python 3 code for <a href="https://celestrak.com/software/vallado-sw.asp">Fundamentals of Astrodynamics and Applications</a> by David Vallado
 
 My overall aims for this repository are to:
 
